@@ -1,2 +1,2 @@
 # csv_processing_script
-Script that creates and does ETL implementations to a csv file. Returns useful insights about the file including, transaction totals, total sells, medium ticket, top 3 products and unique clients.
+A script that executes an ETL pipeline on a CSV file and generates useful insights, including transaction totals, total sales, average ticket, top 3 products, and unique clients.
